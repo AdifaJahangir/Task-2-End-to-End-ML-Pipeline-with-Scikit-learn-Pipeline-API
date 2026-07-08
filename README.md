@@ -49,19 +49,6 @@ The notebook includes:
 * Joblib
 * Google Colab
 
----
-
-# 📂 Project Structure
-
-```text
-Customer-Churn-Pipeline/
-│
-├── Customer_Churn_Pipeline.ipynb
-├── requirements.txt
-├── README.md
-├── best_pipeline.joblib
-└── screenshots/
-```
 
 ---
 
